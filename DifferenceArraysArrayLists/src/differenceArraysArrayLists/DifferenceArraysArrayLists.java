@@ -1,10 +1,11 @@
-package Discussion3;
+package differenceArraysArrayLists;
 
-public class Discussion3 {
+public class DifferenceArraysArrayLists {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		
+		
 	}
 
 }
